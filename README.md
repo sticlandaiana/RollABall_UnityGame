@@ -1,1 +1,2 @@
 # RollABall_UnityGame
+This is a simple 3D game made in Unity based on the classic Roll-a-Ball tutorial. The player controls a ball and collects all the pickup objects to move forward. I added a jump feature using the Space key and a ramp that appears after collecting all the pickups on the first level. When that happens, the enemy disappears and the player can jump onto the second platform. In the second level, the ball has to climb different structures and collect all the objects without falling. If it does, the player loses.
